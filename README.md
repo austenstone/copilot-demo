@@ -64,6 +64,11 @@ See [The Truth about Github Copilot // AI Programming First Look](https://youtu.
   <img src="https://img.youtube.com/vi/4duqI8WyfqE/maxresdefault.jpg" width="300px">
 </a>
 
+## OpenAI
+Leaverage OpenAI to do other AI tasks such as completion, semantic search, classification, and much more!
+
+The [OpenAI API](https://openai.com/api/) makes these models easy to consume in a SASS format.
+
 # 🚧 WIP 🚧
 
 Not happy with the suggestion? Don’t worry there are usually plenty. Just navigate through with a hotkey or mouse/keyboard.
