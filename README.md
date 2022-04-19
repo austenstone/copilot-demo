@@ -35,6 +35,25 @@ Developers hate writing tests! They’re often time consuming and verbose. With 
 # How Do I Get Copilot?
 Installing is as simple as adding a new VS Code extension and logging into GitHub. It’s also available for Neovim and JetBrains.
 
+## Getting Started
+
+To install GitHub Copilot, check out the Getting Started guides:
+- [Visual Studio Code](docs/visualstudiocode/gettingstarted.md#getting-started-with-github-copilot-in-visual-studio-code)
+- [Visual Studio](docs/visualstudio/gettingstarted.md#getting-started-with-github-copilot-in-visual-studio)
+- [JetBrains](docs/jetbrains/gettingstarted.md#getting-started-with-github-copilot-in-jetbrains)
+- [Neovim](https://github.com/github/copilot.vim#getting-started)
+
+For a tour of GitHub Copilot, visit the homepage at [copilot.github.com](https://copilot.github.com).
+
+## Useful links
+
+- [GitHub Copilot homepage](https://copilot.github.com)
+- [Gallery](gallery)
+- [Documentation](docs)
+- [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback)
+
+# 🚧 WIP 🚧
+
 Not happy with the suggestion? Don’t worry there are usually plenty. Just navigate through with a hotkey or mouse/keyboard.
 
 Is Copilot getting in your way? No problem simply toggle it on and off as needed.
