@@ -59,6 +59,11 @@ For a tour of GitHub Copilot, visit the homepage at [copilot.github.com](https:/
 - [Documentation](docs)
 - [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback)
 
+See [The Truth about Github Copilot // AI Programming First Look](https://youtu.be/4duqI8WyfqE)<br>
+<a href="https://youtu.be/4duqI8WyfqE">
+  <img src="https://img.youtube.com/vi/4duqI8WyfqE/maxresdefault.jpg" width="300px">
+</a>
+
 # 🚧 WIP 🚧
 
 Not happy with the suggestion? Don’t worry there are usually plenty. Just navigate through with a hotkey or mouse/keyboard.
