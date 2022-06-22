@@ -57,8 +57,8 @@ For a tour of GitHub Copilot, visit the homepage at [copilot.github.com](https:/
 ## Useful links
 
 - [GitHub Copilot homepage](https://copilot.github.com)
-- [Gallery](gallery)
-- [Documentation](docs)
+- [Gallery](https://github.com/github/copilot-docs/tree/main/gallery)
+- [Documentation](https://github.com/github/copilot-docs/tree/main/docs)
 - [Feedback forum](https://github.com/github/feedback/discussions/categories/copilot-feedback)
 
 See [The Truth about Github Copilot // AI Programming First Look](https://youtu.be/4duqI8WyfqE)<br>
