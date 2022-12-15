@@ -12,6 +12,7 @@ Together with OpenAI, we’re designing GitHub Copilot to get smarter at produci
 
 [Generative Pre-trained Transformer 3 (GPT-3)](https://openai.com/blog/gpt-3-apps/) uses deep learning to produce human-like text and is the most powerful language model ever. OpenAI Codex, our AI system, translates natural language to code.
 
+# [Rewatch Demo](https://github.rewatch.com/video/akkha7d5bmykho4n-copilot-demo)
 # [Zoom Demo](https://github.zoom.us/rec/share/nEQ-8292hfNt3UcP3MKwSe4_wS8yoNXCqe0E9dOHfyuZwEf0UbHNXcss55y2mvqN.t0o7UZx0BlHawSzA) pw:*bDB3H4G
 
 # Implementation Details
