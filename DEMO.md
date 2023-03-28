@@ -25,4 +25,12 @@
 1. // calulate the distance between two points on earth
 2. const distance = 
 
-## ...
+## Tour of Heros Angular
+1. CLI: ?? install dependencies
+2. CLI: ?? start application in current directory
+3. Chat: Add a new phone input
+4. Chat: How would I add validation to the phone input?
+5. Type(hero-detail.component.html): <button type="button" (click)="delete()">delete</button>
+6. Type(hero-detail.component.ts): delete(): void {
+7. fix this.hero to this.hero.id
+8. 
