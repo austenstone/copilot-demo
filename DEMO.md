@@ -21,8 +21,8 @@
 16. // create a basic express server on port 5000
 17. // create index route
 
-# Calulate the distance between two points on earth
+## Calulate the distance between two points on earth
 1. // calulate the distance between two points on earth
 2. const distance = 
 
-# ...
+## ...
