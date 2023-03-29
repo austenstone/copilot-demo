@@ -46,4 +46,7 @@
 12. Chat: Can you make the red more like material design?
 
 ## [Copilot4Docs](https://copilot4docs.githubnext.com/)
-1. 
+
+## Sentiment
+1. // determine whether the sentiment of this text is positive or negative using a web service
+
