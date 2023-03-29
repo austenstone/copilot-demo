@@ -12,8 +12,8 @@ Together with OpenAI, we’re designing GitHub Copilot to get smarter at produci
 
 [Generative Pre-trained Transformer 3 (GPT-3)](https://openai.com/blog/gpt-3-apps/) uses deep learning to produce human-like text and is the most powerful language model ever. OpenAI Codex, our AI system, translates natural language to code.
 
-# [Rewatch Demo](https://github.rewatch.com/video/akkha7d5bmykho4n-copilot-demo)
-# [Zoom Demo](https://github.zoom.us/rec/share/nEQ-8292hfNt3UcP3MKwSe4_wS8yoNXCqe0E9dOHfyuZwEf0UbHNXcss55y2mvqN.t0o7UZx0BlHawSzA) pw:*bDB3H4G
+[Rewatch Demo](https://github.rewatch.com/video/akkha7d5bmykho4n-copilot-demo)
+[Zoom Demo](https://github.zoom.us/rec/share/nEQ-8292hfNt3UcP3MKwSe4_wS8yoNXCqe0E9dOHfyuZwEf0UbHNXcss55y2mvqN.t0o7UZx0BlHawSzA) pw:*bDB3H4G
 
 ## Implementation Details
 With tasks like making a function that calculates the number of days between two dates developers default to a google search/stack overflow. With Copilot you simply write out a new function called “calculateDaysBetweenDates” and it will implement it for you.
@@ -89,15 +89,15 @@ We’re exploring a way to get you the information you need, faster. By surfacin
 ## [Copilot4CLI](https://githubnext.com/projects/copilot-cli)
 Ever having trouble remembering shell commands and flags for this or that? Ever wish you could just say what you want the shell to do? Don't worry: we're building GitHub Copilot assistance right into your terminal.
 
-## OpenAI
+# OpenAI
 Leverage OpenAI to do other AI tasks such as completion, semantic search, classification, and much more!
 
 The [OpenAI API](https://openai.com/api/) makes these models easy to consume in a SASS format.
 
-# 🚧 WIP 🚧
+<!-- # 🚧 WIP 🚧
 
 Not happy with the suggestion? Don’t worry there are usually plenty. Just navigate through with a hotkey or mouse/keyboard.
 
 Is Copilot getting in your way? No problem simply toggle it on and off as needed.
 
-Don’t Fly Solo! Install copilot and start writing better code faster.
+Don’t Fly Solo! Install copilot and start writing better code faster. -->
