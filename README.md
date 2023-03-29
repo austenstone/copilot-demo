@@ -76,6 +76,11 @@ With chat and terminal interfaces, support for pull requests, and early adoption
 
 [GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
 
+See [Game over… GitHub Copilot X announced](https://youtu.be/q1HZj40ZQrM)<br>
+<a href="https://youtu.be/q1HZj40ZQrM">
+  <img src="https://img.youtube.com/vi/q1HZj40ZQrM/maxresdefault.jpg" width="300px">
+</a>
+
 ## [Copilot4PRs](https://copilot4prs.githubnext.com/dashboard)
 Pull requests that tell a story. GitHub Copilot keeps track of your work, suggests descriptions, and helps reviewers reason about your changes with a code walkthrough.
 AI-generated PR descriptions. We've all skipped the pull request template one too many times. No more. TAB TAB TAB Submit And, you're done!
