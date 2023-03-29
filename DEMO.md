@@ -25,6 +25,12 @@
 1. // calulate the distance between two points on earth
 2. const distance = 
 
+## Math Library
+1. Create math.ts
+2. Create math.spec.ts
+3. // test the math service
+4. CLI: ?? run tests for this project
+
 ## Tour of Heros Angular
 1. CLI: ?? install dependencies
 2. CLI: ?? start application in current directory
