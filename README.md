@@ -15,24 +15,24 @@ Together with OpenAI, we’re designing GitHub Copilot to get smarter at produci
 # [Rewatch Demo](https://github.rewatch.com/video/akkha7d5bmykho4n-copilot-demo)
 # [Zoom Demo](https://github.zoom.us/rec/share/nEQ-8292hfNt3UcP3MKwSe4_wS8yoNXCqe0E9dOHfyuZwEf0UbHNXcss55y2mvqN.t0o7UZx0BlHawSzA) pw:*bDB3H4G
 
-# Implementation Details
+## Implementation Details
 With tasks like making a function that calculates the number of days between two dates developers default to a google search/stack overflow. With Copilot you simply write out a new function called “calculateDaysBetweenDates” and it will implement it for you.
 
 Never leave your IDE. Stay in the flow!
 
-# Autofill Repetitive Code
+## Autofill Repetitive Code
 Have you ever found yourself writing repetitive lines of code or comments? Copilot notices these sort of patterns easily and will start suggesting the next line or even entire blocks of code.
 
-# A Push in The Right Direction
+## A Push in The Right Direction
 Sometimes developers get stuck. They aren’t quite sure how to proceed with their application. They might go searching for answers on the internet. Copilot can help you get unstuck by making highly intelligent suggestions about what to do next.
 
-# Proficient in More Than A Dozen Programming Languages
+## Proficient in More Than A Dozen Programming Languages
 Knowing a single programming language is hard enough! Even the best developers forget specific syntax or patterns. With Copilot you can just start typing and it’s suggested solutions will almost magically provide you with good code written in your project's programming language and framework.
 
-# Contextually Aware
+## Contextually Aware
 Is your company picky about coding style? Maybe you’re the new guy and you don’t quite know all of their coding styles and patterns yet. With enough context Copilot will be suggesting code that is just right for your team’s project and matches all their preferences.
 
-# It Can Implement Tests!
+## It Can Implement Tests!
 Developers hate writing tests! They’re often time consuming and verbose. With a little help Copilot can write entire tests for you.
 
 # How Do I Get Copilot?
