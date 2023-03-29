@@ -72,6 +72,14 @@ Leaverage OpenAI to do other AI tasks such as completion, semantic search, class
 
 The [OpenAI API](https://openai.com/api/) makes these models easy to consume in a SASS format.
 
+# [Copilot X](https://github.com/features/preview/copilot-x)
+With chat and terminal interfaces, support for pull requests, and early adoption of OpenAI’s GPT-4, GitHub Copilot X is our vision for the future of AI-powered software development. Integrated into every part of your workflow.
+
+* [Copilot4PRs](https://copilot4prs.githubnext.com/dashboard)
+* [CopilotChat](https://github.com/github-copilot/chat_waitlist_signup/join)
+* [Copilot4Docs](https://githubnext.com/projects/copilot-for-docs)
+* [Copilot4CLI](https://githubnext.com/projects/copilot-cli)
+
 # 🚧 WIP 🚧
 
 Not happy with the suggestion? Don’t worry there are usually plenty. Just navigate through with a hotkey or mouse/keyboard.
