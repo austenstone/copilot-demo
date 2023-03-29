@@ -31,7 +31,7 @@
 3. // test the math service
 4. CLI: ?? run tests for this project
 
-## Tour of Heros Angular
+## [Tour of Heros Angular](https://github.com/austenstone/copilot-codespace)
 1. CLI: ?? install dependencies
 2. CLI: ?? start application in current directory
 3. Type: Add a new phone input
@@ -44,4 +44,6 @@
 10. Chat: Make the button red
 11. Chat: Nice! But I don't like the hover color.
 12. Chat: Can you make the red more like material design?
-13. 
+
+## [Copilot4Docs](https://copilot4docs.githubnext.com/)
+1. 
