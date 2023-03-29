@@ -66,11 +66,6 @@ See [The Truth about Github Copilot // AI Programming First Look](https://youtu.
   <img src="https://img.youtube.com/vi/4duqI8WyfqE/maxresdefault.jpg" width="300px">
 </a>
 
-## OpenAI
-Leaverage OpenAI to do other AI tasks such as completion, semantic search, classification, and much more!
-
-The [OpenAI API](https://openai.com/api/) makes these models easy to consume in a SASS format.
-
 # [Copilot X](https://github.com/features/preview/copilot-x)
 With chat and terminal interfaces, support for pull requests, and early adoption of OpenAI’s GPT-4, GitHub Copilot X is our vision for the future of AI-powered software development. Integrated into every part of your workflow.
 
@@ -94,6 +89,10 @@ We’re exploring a way to get you the information you need, faster. By surfacin
 ## [Copilot4CLI](https://githubnext.com/projects/copilot-cli)
 Ever having trouble remembering shell commands and flags for this or that? Ever wish you could just say what you want the shell to do? Don't worry: we're building GitHub Copilot assistance right into your terminal.
 
+## OpenAI
+Leverage OpenAI to do other AI tasks such as completion, semantic search, classification, and much more!
+
+The [OpenAI API](https://openai.com/api/) makes these models easy to consume in a SASS format.
 
 # 🚧 WIP 🚧
 
