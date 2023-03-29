@@ -36,7 +36,7 @@ Is your company picky about coding style? Maybe you’re the new guy and you don
 Developers hate writing tests! They’re often time consuming and verbose. With a little help Copilot can write entire tests for you.
 
 # How Do I Get Copilot?
-Copilot is currently in beta. [Sign up](https://github.com/features/copilot/signup).
+You can get copilot today! See [Pricing](https://github.com/features/copilot#pricing).
 
 Installing is as simple as adding a new VS Code extension and logging into GitHub. It’s also available for Neovim and JetBrains.
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
@@ -75,10 +75,21 @@ The [OpenAI API](https://openai.com/api/) makes these models easy to consume in 
 # [Copilot X](https://github.com/features/preview/copilot-x)
 With chat and terminal interfaces, support for pull requests, and early adoption of OpenAI’s GPT-4, GitHub Copilot X is our vision for the future of AI-powered software development. Integrated into every part of your workflow.
 
-* [Copilot4PRs](https://copilot4prs.githubnext.com/dashboard)
-* [CopilotChat](https://github.com/github-copilot/chat_waitlist_signup/join)
-* [Copilot4Docs](https://githubnext.com/projects/copilot-for-docs)
-* [Copilot4CLI](https://githubnext.com/projects/copilot-cli)
+[GitHub Copilot X: The AI-powered developer experience](https://github.blog/2023-03-22-github-copilot-x-the-ai-powered-developer-experience/)
+
+## [Copilot4PRs](https://copilot4prs.githubnext.com/dashboard)
+Pull requests that tell a story. GitHub Copilot keeps track of your work, suggests descriptions, and helps reviewers reason about your changes with a code walkthrough.
+AI-generated PR descriptions. We've all skipped the pull request template one too many times. No more. TAB TAB TAB Submit And, you're done!
+
+## [CopilotChat](https://github.com/github-copilot/chat_waitlist_signup/join)
+Context aware conversations with your copilot. If you're stuck solving a problem, ask GitHub Copilot to explain a piece of code. Bump into an error? Have GitHub Copilot fix it. It’ll even generate unit tests so you can get back to building what’s next.
+
+## [Copilot4Docs](https://githubnext.com/projects/copilot-for-docs)
+We’re exploring a way to get you the information you need, faster. By surfacing the most relevant content for questions with tailored summaries that help connect the dots, Copilot for docs saves developers from scouring reams of documentation.
+
+## [Copilot4CLI](https://githubnext.com/projects/copilot-cli)
+Ever having trouble remembering shell commands and flags for this or that? Ever wish you could just say what you want the shell to do? Don't worry: we're building GitHub Copilot assistance right into your terminal.
+
 
 # 🚧 WIP 🚧
 
