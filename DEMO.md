@@ -31,7 +31,7 @@
 3. // test the math service
 4. CLI: ?? run tests for this project
 
-## [Tour of Heros Angular](https://github.com/austenstone/copilot-codespace)
+## [Tour of Heros Angular](https://github.com/austenstone/Tour-of-Heroes)
 1. CLI: ?? install dependencies
 2. CLI: ?? start application in current directory
 3. Type: Add a new phone input
