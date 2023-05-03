@@ -36,7 +36,7 @@
 2. CLI: ?? start application in current directory
 3. Type: Add a new phone input
 4. Chat: Property 'phone' does not exist on type 'Hero'.
-5. Chat: How would I add validation to the phone input?
+5. Chat: How would I add validation to the phone input using angular form group?
 6. Can't bind to 'formGroup' since it isn't a known property of 'form'.
 7. Type(hero-detail.component.html): <button type="button" (click)="delete()">delete</button>
 8. Type(hero-detail.component.ts): delete(): void {
