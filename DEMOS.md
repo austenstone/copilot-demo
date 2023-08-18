@@ -45,6 +45,23 @@
 11. Chat: Nice! But I don't like the hover color.
 12. Chat: Can you make the red more like material design?
 
+### Powers
+1. Start typing under hero details and realize it provides powers
+2. autofix missing power attribute on interface
+3. add delete method to html
+4. add delete method to component
+5. Go to service and add getHeroesByPower using getHeroes
+6. add doc to getHeroesByPower
+7. add tests for getHeroesByPower
+8. run test
+9. 
+10. explain search function
+
+### Login
+1. How do we add a login page to this angular application?
+
+
+
 ## [Copilot4Docs](https://copilot4docs.githubnext.com/)
 
 ## Sentiment
